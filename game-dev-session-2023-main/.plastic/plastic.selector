@@ -1,0 +1,4 @@
+repository "game-dev-session-final@deshanik2001@cloud"
+  path "/"
+    br "/main"
+    co "/main"
